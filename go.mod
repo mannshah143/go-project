@@ -1,3 +1,3 @@
-module my-go-project
+module go-project
 
 go 1.23.0
